@@ -1,2 +1,2 @@
-# GymViet
-CapStone1
+# GymVietAI
+Capstone 1
